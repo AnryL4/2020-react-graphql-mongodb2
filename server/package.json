@@ -1,0 +1,23 @@
+{
+	"name": "graphql-practice-02",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon -e js, json, graphql"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"apollo-server": "^2.15.1",
+		"apollo-server-express": "^2.16.1",
+		"express": "^4.17.1",
+		"graphql": "^15.3.0",
+		"jsonwebtoken": "^8.5.1",
+		"moment": "^2.27.0",
+		"mongoose": "^5.9.24",
+		"nodemon": "^2.0.4",
+		"validator": "^13.1.1"
+	}
+}

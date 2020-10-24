@@ -1,0 +1,76 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.card-action {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-content h6 {
+    font-size: 12px;
+    right: 10px;
+    position: absolute;
+    top: 10px;
+}
+
+.h1-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-shadow {
+    padding: 16px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);
+    margin-top: 5px;
+    background-color: #fff;
+}
+
+.p-form {
+    color: #9e9e9e;
+    font-size: 1rem;
+}
+
+.bodyPost h1,
+h2,
+h3,
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card {
+    max-height: 500px;
+    overflow: auto;
+}
+
+body {
+    background-color: #E4E5D2;
+}
+
+.card-title {
+    font-weight: 500;
+    color: #ffffff;
+    border-bottom: 1px solid #fff;
+}
+
+.mar-bot-0 {
+    margin-bottom: 0px;
+}
+
+.mar-top-0 {
+    margin-top: 0px;
+}
+
+.ql-container {
+    min-height: 100px;
+}
+
+nav .brand-logo {
+    padding-left: 10px;
+}
+
+h1 {
+    margin: 1.8rem 0 1.68rem 0;
+}
